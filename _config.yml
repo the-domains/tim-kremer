@@ -1,0 +1,28 @@
+name: tim.kremer
+favicon: null
+layout_spectrum: 0.1654851466882974
+typography_spectrum: 0.8215836531016976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1145226324442774
+  lightness: 0.9713597940281034
+  saturation: 0.6388271155301481
+  rhythmicContrast: 0.2723058480769396
+purpose: []
