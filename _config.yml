@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.8215836531016976
+color:
+  saturation: 0.6388271155301481
+  brandStrength: 0.1145226324442774
+  lightness: 0.9713597940281034
+  brandColors:
+    - '#D3DFEF'
+    - '#272F31'
+    - '#8197C0'
+    - '#FFFFFF'
+    - '#6D6D37'
+  rhythmicContrast: 0.2723058480769396
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.650376
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: tim.kremer
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6388271155301481
-  brandStrength: 0.1145226324442774
-  lightness: 0.9713597940281034
-  brandColors:
-    - '#D3DFEF'
-    - '#272F31'
-    - '#8197C0'
-    - '#FFFFFF'
-    - '#6D6D37'
-  rhythmicContrast: 0.2723058480769396
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: tim.kremer
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8215836531016976
-layout_spectrum: 0.650376
+description: July 2016
+purpose: []
