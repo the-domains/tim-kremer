@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[tim.kremer]]></title>
         <description><![CDATA[tim.kremer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tim-kremer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 08:47:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 02:21:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tim-kremer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6222f1a4-844a-4ef3-8c93-83b9915d1cf8.jpg">]]></description>
-            <link>undefinedthe-tour-divide-july-2016-27-days-and-a-few-hours-from-new/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6222f1a4-844a-4ef3-8c93-83b9915d1cf8.jpg" alt="setting off in Antelope Wells ">]]></description>
+            <link>https://thegrid.ai/tim-kremer/the-tour-divide-july-2016-27-days-and-a-few-hours-from-new/index.html</link>
             <guid isPermaLink="false">41d35616-e4a3-42ca-ae39-4d696775932c</guid>
-            <pubDate>Fri, 19 Aug 2016 08:47:17 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 02:21:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
