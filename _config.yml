@@ -1,30 +1,7 @@
-typography_spectrum: 0.8215836531016976
-color:
-  saturation: 0.6388271155301481
-  brandStrength: 0.1145226324442774
-  lightness: 0.9713597940281034
-  brandColors:
-    - '#D3DFEF'
-    - '#272F31'
-    - '#8197C0'
-    - '#FFFFFF'
-    - '#6D6D37'
-  rhythmicContrast: 0.2723058480769396
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.650376
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 name: tim.kremer
-cta:
-  bucket: null
-  version: null
-  domain: null
 favicon: null
+layout_spectrum: 0.650376
+typography_spectrum: 0.8215836531016976
 collections:
   - index:
       path: /
@@ -38,4 +15,27 @@ collections:
       format: rss
       number: 10
 description: Tour Divide July 2016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#D3DFEF'
+    - '#272F31'
+    - '#8197C0'
+    - '#FFFFFF'
+    - '#6D6D37'
+  brandStrength: 0.1145226324442774
+  lightness: 0.5625
+  saturation: 0.6388271155301481
+  rhythmicContrast: 0.2723058480769396
 purpose: []
